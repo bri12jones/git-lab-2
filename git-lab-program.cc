@@ -16,5 +16,3 @@ int main(int argc, char const *argv[]) {
     /cout << "Hello Git!!" << endl;/
     return 0;
 }// main
-g++ -Wall git-lab-program.cc
-./a.out
